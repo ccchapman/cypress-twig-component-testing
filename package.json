@@ -1,0 +1,23 @@
+{
+  "name": "cypress-twig-component-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@cypress/webpack-dev-server": "^1.1.3",
+    "cypress": "^7.1.0",
+    "raw-loader": "^4.0.2",
+    "twig": "^1.15.4",
+    "typescript": "^4.2.4",
+    "webpack": "^5.32.0",
+    "webpack-dev-server": "^3.11.2"
+  },
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
